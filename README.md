@@ -13,13 +13,13 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZwZ2lnZWhjNzkxMTN4bncwa29ucTZ4Ynd0cnhwY3BrM3poajUxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 
 - 🌱 I’m currently learning Django and React Native
 - 👯 I’m looking to collaborate with React Native developers and graphic designers
 - 🤝 I’m looking for help with backend development
 - 📫 How to reach me: **bakiget78@gmail.com**
-- 📄 Know about my experiences: [My GitHub](https://github.com/Beki78)
 - ⚡ A bug in your code is just a feature in disguise waiting to be discovered!
 
 <h3 align="left">Connect with me:</h3>
