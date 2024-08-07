@@ -26,12 +26,20 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bereketgetachew/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="bereket-getachew" height="30" width="40" />
+  <a href="mailto:bakiget78@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+  <a href="https://www.linkedin.com/in/bereketgetachew/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/beki_b_gm" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="beki_b_gm" height="30" width="40" />
+  <a href="https://bereketgetachew.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://leetcode.com/u/bakiget78/">
+  <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=green" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
