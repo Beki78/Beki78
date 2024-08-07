@@ -42,7 +42,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html" height="35" width="35" />
@@ -57,24 +57,9 @@
     <img src="https://skillicons.dev/icons?i=typescript" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=appwrite" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" height="35" width="35" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
+   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
@@ -84,12 +69,39 @@
     <img src="https://skillicons.dev/icons?i=nodejs" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
+</p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
+  </a>
+  <a href="https://expo.dev/">
+  <img src="https://avatars.githubusercontent.com/u/62702930?s=280&v=4" height="35" width="35" style="border-radius: 50%;" alt="Expo" />
+</a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=appwrite" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" height="35" width="35" />
+  </a>
     <img src="https://skillicons.dev/icons?i=figma" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
@@ -98,7 +110,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="35" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite" height="35" width="35" />
+  </a>
 </p>
+
 
 ## 📈 GitHub Stats
 
