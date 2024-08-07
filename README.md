@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761196pgigehc79113xnw0konq6xbwtrxpcpk3zhj510&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761196pgigehc79113xnw0konq6xbwtrxpcpk3zhj510&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
 
@@ -94,22 +94,25 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div style="margin: 10px; text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
+  <div style="margin: 10px; text-align: center; flex: 1;">
     <h3>Stats Graph</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Beki78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="180" alt="stats graph"/>
   </div>
 
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; flex: 1;">
     <h3>Languages Graph</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beki78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
   </div>
+</div>
 
+<div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="margin: 10px; text-align: center;">
     <h3>Streak Graph</h3>
     <img src="https://streak-stats.demolab.com?user=Beki78&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
   </div>
 </div>
+
 
 ## 🏆 My Contributions
 
