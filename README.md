@@ -1,4 +1,4 @@
-# Hi There! 👋
+# I am Bereket Getachew 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Getachew!;)
 
@@ -17,12 +17,12 @@
 
 ## What I'm Doing
 
-- 🌱 I’m currently learning Django and React Native
-- 👯 I’m looking to collaborate on React Native development and graphics design
-- 🤝 I’m looking for help with backend development
-- 📫 How to reach me: **bakiget78@gmail.com**
-- 📄 Know about my experiences: [My GitHub](https://github.com/Beki78)
-- ⚡ A bug in your code is just a feature in disguise waiting to be discovered!
+🌱 I’m currently learning Django and React Native  
+👯 I’m looking to collaborate on React Native development and graphics design  
+🤝 I’m looking for help with backend development  
+📫 How to reach me: **bakiget78@gmail.com**  
+📄 Know about my experiences: [My GitHub](https://github.com/Beki78)  
+⚡ A bug in your code is just a feature in disguise waiting to be discovered!
 
 ## Connect with Me
 
