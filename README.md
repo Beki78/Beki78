@@ -117,4 +117,5 @@
 
 ## 🏆 My Contributions
 
-<img src="https://raw.githubusercontent.com/Beki78/Beki78/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Beki78/Beki78/output/snake.svg)
+
