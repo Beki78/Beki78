@@ -117,5 +117,5 @@
 
 ## 🏆 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/Beki78/Beki78/output/snake.svg)
+  <img src="https://profile-counter.glitch.me/Beki78/count.svg" />
 
