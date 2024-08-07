@@ -13,7 +13,8 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZwZ2lnZWhjNzkxMTN4bncwa29ucTZ4Ynd0cnhwY3BrM3poajUxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZwZ2lnZWhjNzkxMTN4bncwa29ucTZ4Ynd0cnhwY3BrM3poajUxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761196pgigehc79113xnw0konq6xbwtrxpcpk3zhj510&ep=v1_gifs_search&rid=giphy.gif&ct=g
+)" />
 
 
 - 🌱 I’m currently learning Django and React Native
