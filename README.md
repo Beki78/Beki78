@@ -124,7 +124,7 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center; flex: 1;">
     <h3>Stats Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Beki78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="180" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Beki78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&PAT_1" height="180" alt="stats graph"/>
   </div>
 
   <div style="text-align: center; flex: 1;">
