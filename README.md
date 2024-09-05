@@ -116,6 +116,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite" height="35" width="35" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux" height="35" width="35" />
+  </a>
 </p>
 
 
