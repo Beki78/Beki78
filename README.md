@@ -87,6 +87,9 @@
     <img src="https://skillicons.dev/icons?i=express" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=emotion" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
   </a>
   <a href="https://expo.dev/">
