@@ -81,6 +81,9 @@
     <img src="https://skillicons.dev/icons?i=react" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
