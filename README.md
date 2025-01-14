@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  "I'm a passionate developer from Ethiopia who loves to learn new technologies. As a full-stack MERN developer, I specialize in building robust web applications. Currently, I'm expanding my skills by diving into Django for backend development and React Native for mobile app development."
+  "I'm a passionate developer from Ethiopia who loves to learn new technologies. As a full-stack MERN developer, I specialize in building robust web applications."
 </h3>
 
 <p align="left">
