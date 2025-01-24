@@ -133,7 +133,7 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div >
   <div style="text-align: center; flex: 1;">
     <h3>Stats Graph</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Beki78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&PAT_1" height="180" alt="stats graph"/>
@@ -151,6 +151,7 @@
     <a href="https://git.io/streak-stats"><img src="https://gitstreak.vercel.app?user=Beki78&theme=highcontrast" alt="GitHub Streak" /></a>
   </div>
 </div>
+<h3>This Week I Spent My Time On</h3>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -162,7 +163,14 @@ Markdown      2 mins          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oh7di2dlndu7p47wgufnic65gq&count=5">
+</p>
 
+<p align="center" >
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 ## 🏆 My Contributions
 
