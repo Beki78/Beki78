@@ -1,54 +1,17 @@
-name: Wakatime Metrics
+name: Waka Readme
+
 on:
-  schedule:
-    - cron: "0 * * * *"  # Runs every hour
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
-  wakatime-metrics:
+  update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-      
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: WakaReadme DevMetrics
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakapi-qt1b.onrender.com/api
-
-      - name: Update README with Top Projects
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: python update_readme.py
-      
-      - name: Configure Git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-      
-      - name: Stash local changes
-        run: git stash
-
-      - name: Pull latest changes
-        run: git pull origin main
-
-      - name: Apply stash
-        run: git stash pop
-
-      - name: Commit and Push changes
-        run: |
-          git add README.md
-          git commit -m 'Update README with Wakatime metrics' || echo "No changes to commit"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
