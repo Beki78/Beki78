@@ -152,6 +152,15 @@
   </div>
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    18 hrs 55 mins  ████████████████████░░░░░   79.75 %
+Python        4 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+Other         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+```
+
 <!--END_SECTION:waka-->
 
 
