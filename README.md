@@ -148,10 +148,11 @@
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="text-align: center;">
     <h3>Streak Graph</h3>
-    <img src="https://streak-stats.demolab.com?user=Beki78&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
+    <a href="https://git.io/streak-stats"><img src="https://gitstreak.vercel.app?user=Beki78&theme=highcontrast" alt="GitHub Streak" /></a>
   </div>
 </div>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 🏆 My Contributions
