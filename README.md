@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Getachew!;" />
 </h1>
 
-<h3 align="center">
-  "I'm a passionate developer from Ethiopia who loves to learn new technologies. As a full-stack MERN developer, I specialize in building robust web applications."
-</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Beki78&label=Profile%20views&color=0e75b6&style=flat" alt="Beki78" />
@@ -17,9 +15,8 @@
 
 
 
-- 🌱 I’m currently learning Django and React Native
-- 👯 I’m looking to collaborate with React Native developers and graphic designers
-- 🤝 I’m looking for help with backend development
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate with frontend developers and graphic designers
 - 📫 How to reach me: **bakiget78@gmail.com**
 - ⚡ A bug in your code is just a feature in disguise waiting to be discovered!
 
@@ -100,7 +97,7 @@
 </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Others:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=appwrite" height="35" width="35" />
