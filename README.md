@@ -138,7 +138,7 @@
 
   <div style="text-align: center; flex: 1;">
     <h3>Languages Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beki78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beki78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
   </div>
 </div>
 
@@ -148,7 +148,7 @@
     <a href="https://git.io/streak-stats"><img src="https://gitstreak.vercel.app?user=Beki78&theme=highcontrast" alt="GitHub Streak" /></a>
   </div>
 </div>
-<h3>This Week I Spent My Time On</h3>
+<h3>The last 7 days I Spent My Time On</h3>
 <!--START_SECTION:waka-->
 
 ```txt
