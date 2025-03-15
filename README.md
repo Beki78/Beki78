@@ -131,9 +131,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=prisma" height="35" width="35" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim" height="35" width="35" />
-  </a>
+ 
 </p>
 
 
