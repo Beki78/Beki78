@@ -159,13 +159,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 44 mins
+Total Time: 17 hrs 28 mins
 
-TypeScript    17 hrs 32 mins  ████████████████████████▓   98.92 %
-Image (svg)   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript    17 hrs 16 mins  ████████████████████████▓   98.91 %
+Image (svg)   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 Prisma        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
