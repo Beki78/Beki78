@@ -159,16 +159,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 25 mins
+Total Time: 12 hrs 19 mins
 
-TypeScript   4 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.18 %
-Markdown     2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-JSON         1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-JavaScript   1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Bash         1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Prisma       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   5 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.77 %
+Markdown     2 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+JSON         1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+JavaScript   1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Bash         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Prisma       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
