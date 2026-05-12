@@ -159,12 +159,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 mins
+Total Time: 17 mins
 
-Other        19 mins               ███████████░░░░░░░░░░░░░░   43.44 %
-TypeScript   17 mins               █████████▓░░░░░░░░░░░░░░░   38.50 %
-Markdown     7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other        19 mins               █████████████▒░░░░░░░░░░░   52.80 %
+TypeScript   17 mins               ███████████▓░░░░░░░░░░░░░   46.80 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
