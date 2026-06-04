@@ -159,11 +159,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 0 secs
 
-Bash         0 secs                ██████████████▓░░░░░░░░░░   59.17 %
-TypeScript   0 secs                █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-TSConfig     0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
