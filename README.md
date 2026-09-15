@@ -159,10 +159,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 0 secs
 
-Other   18 mins               ████████████████░░░░░░░░░   64.02 %
-Bash    10 mins               █████████░░░░░░░░░░░░░░░░   35.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
